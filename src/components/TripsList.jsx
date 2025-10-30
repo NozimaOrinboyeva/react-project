@@ -1,6 +1,6 @@
 // style
 import "./TripList.css";
-
+  
 import { useState } from "react";
 import { useFetch } from "../hooks/useFetch";
 

@@ -1,5 +1,5 @@
 import './App.css'
-import TripList from './components/TripList'
+import TripList from './components/TripsList'
 
 function App() {
   return (
